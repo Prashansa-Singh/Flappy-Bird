@@ -1,5 +1,8 @@
 # Flappy Bird
-Java game with multiple levels, lifebar and weapons (e.g. rocks and bombs) which can be used to destroy different plastic and steel pipes. Steel pipes also have flames which are periodically released that the user must try to avoid.
+Java game with multiple levels, lifebar and weapons (e.g. rocks and bombs) which can be used to destroy different plastic and steel pipes. 
+
+Steel pipes also have flames which are periodically released that the user must try to avoid.
+
 There is also a timescale feature (press 'L' to speed up) which can make the game run upto 3x faster.
 
 ## Screenshots
@@ -22,6 +25,7 @@ There is also a timescale feature (press 'L' to speed up) which can make the gam
 ![image](https://user-images.githubusercontent.com/88768231/226071530-0a03a128-b7bf-4fdc-9825-8af93d68c385.png)
 
 ### Level 1
+Bird can hold weapons on its beak and release them to destroy pipes!
 ![image](https://user-images.githubusercontent.com/88768231/226071565-d218c58e-6bbd-4b11-a17c-517ebdcd5d7a.png)
 
 ![image](https://user-images.githubusercontent.com/88768231/226071574-e5588845-4c4e-4633-bb09-c5870f1b396d.png)
